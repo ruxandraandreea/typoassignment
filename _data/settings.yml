@@ -1,13 +1,13 @@
-title: Your name or name of site
-description: A website about typography
+title: Beyond Covers
+description: "A website where typography on music albums is explained "
 footer_text: Copyright 2021 Andreea Ruxandra Iancu
-header_feature_image: ../uploads/claudio-schwarz-xiqkin06up4-unsplash.jpg
-header_text: My Dream Blog
+header_feature_image: ../uploads/oleg-ivanov-7x4ngefelye-unsplash.jpg
+header_text: ""
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 10vmax
 navbarheight: 55px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
