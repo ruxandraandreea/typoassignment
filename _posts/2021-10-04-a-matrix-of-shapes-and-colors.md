@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A matrix of shapes and colors
+title: A Matrix of shapes and colors
 date: 2021-10-04T22:48:45.873Z
 title_color: "#ffffff"
 comments: false
