@@ -9,7 +9,9 @@ tags:
   - Design
   - Art
 ---
-The public is often used to associating one typeface with a certain brand – take for example the famous Didot font used for the cover of Vogue magazine, or Netflix’s easily recognizable Bebas Neue, the majority of people would recognize the brand by the style of lettering they use. However, the same can go the other way around; meaning the typeface often hints at the tone and emotion of something it’s attached to. And musicians have quickly realized that, resulting in the continuous use of the Cooper Black font on the cover of music albums.  
+The public is often used to associating one typeface with a certain brand – take for example the famous Didot font used for the cover of Vogue magazine, or Netflix’s easily recognizable Bebas Neue, the majority of people would recognize the brand by the style of lettering they use. However, the same can go the other way around; meaning the typeface often hints at the tone and emotion of something it’s attached to. And musicians have quickly realized that, resulting in the continuous use of the Cooper Black font on the cover of music albums. 
+
+Therefore, one question arises: what do Frank Ocean, Tyler, the Creator, Clara Ward and The Beach Boys - four artists with very different approaches on music - have in common? The answer you might be looking for is pretty surprising. They all have used Cooper Black on their album covers.   
 
 The typeface created in 1920 by Oswald Cooper was able to revolutionize the typography used in advertisements and newspapers, being associated with nothing, in particular, thus creating endless possibilities to make use of it – unlike the sharp, serif fonts previously used. The font has no sharp edges touching the baseline, and utilizes negative space in an unconventional way – take for example the tilted negative space of the letter O. It works so well because the design of the letters allows for mixing uppercase and lowercase letters, and remains eligible even when printed in really small font size, with a condensed with of the lettering.
 
