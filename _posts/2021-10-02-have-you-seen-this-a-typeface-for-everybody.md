@@ -3,7 +3,7 @@ layout: post
 title: Have you seen this? - A typeface for everybody
 date: 2021-10-02T18:23:02.645Z
 image: ../uploads/hello-i-m-nik-6rhipb9uy88-unsplash.jpg
-title_color: "#ffffff"
+title_color: "#000000"
 comments: false
 tags:
   - Music
@@ -28,7 +28,7 @@ The Beach Boys’ pop album is a great example of how easy it is to puzzle up wo
 
 Frank Ocean’s debut studio album, channel ORANGE, showcases just how easy it is to pair Cooper Black with other typefaces. Dale Eisinger wrote for Complex in 2013 that “Employing the classic Cooper Black font—a staple of his Odd Future crew and hip-hop history, alike—next to a more modern, Sans-Serif font shows just how smart this dude is”.
 
-![Tyler, the Creator - Goblin (2011)](../uploads/8da4b1495e64b65559bf94bdad90a06f.jpg "Tyler, the Creator - Goblin (2011)")
+![Tyler, the Creator - Goblin (2011)](../uploads/goblindeluxeedition.jpg "Tyler, the Creator - Goblin (2011)")
 
 Moving away from pop, but keeping on the same track of debuting albums, one might discover Tyler, the Creator’s Goblin. The pink-coloured font, paired with a thick black borderline is reminiscent of graffiti –which is often associated with hip-hop music-, making a great fit for this indie, temperamental album.
 
