@@ -46,7 +46,7 @@ Moving away from pop, but keeping on the same track of debuting albums, one migh
 
 On the other side of the spectrum of music genres, Clara Ward proves once again the versatility of Cooper Black, by using it on the cover of the jazz album *Hang Your Tears Out to Dry.* Here, similar to The Beach Boys, the font is more a matter of fitting the narrative of time rather than genre – adding to the anticipation of the 70s trends in typography and design.
 
-You can find out more on how this font is utilized in other fields, as well as more on the history of its creation by watching the video listed down below from Vox.
+You can find out more on how this font is utilized in other fields, as well as more on the history of its creation by watching the video listed down below from *Vox*.
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/Zu91meda2I8?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
