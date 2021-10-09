@@ -24,7 +24,7 @@ Over time, Cooper Black has become one of the most versatile yet bold typefaces 
 
 ![The Beach Boys - Pet Sounds (1966)](../uploads/petsoundscover.jpg "The Beach Boys - Pet Sounds (1966)")
 
-The Beach Boys’ pop album is a great example of how easy it is to puzzle up words when using this font. The S in Sounds fits perfectly between the B and O in Boys, while the E in Pet complements the D in Sounds – and all because of rounded edges that allow for unevenness. Generally, this font fits the trend of 70’s groovy, curvy typefaces, making an effective branding of the album during that time.
+The Beach Boys’ pop album is a great example of how easy it is to puzzle up words when using this font. The *S* in *Sounds* fits perfectly between the *B* and *O* in *Boys*, while the *E* in *Pet* complements the *D* in *Sounds* – and all because of rounded edges that allow for unevenness. Generally, this font fits the trend of 70’s groovy, curvy typefaces, making an effective branding of the album during that time.
 
 #### Frank Ocean - *channel ORANGE (2012)*
 
