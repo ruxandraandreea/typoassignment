@@ -3,7 +3,7 @@ layout: post
 title: Have you seen this? - A typeface for everybody
 date: 2021-10-02T18:23:02.645Z
 image: ../uploads/hello-i-m-nik-6rhipb9uy88-unsplash.jpg
-title_color: "#ffffff"
+title_color: "#000000"
 comments: false
 tags:
   - Music
