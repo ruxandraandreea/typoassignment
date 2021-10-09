@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://beyond-words.netlify.app"   #change this to yours
+url: "https://beyond-covers.netlify.app"   #change this to yours
 repository: ruxandraandreea/typoassignment
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
