@@ -20,17 +20,25 @@ The typeface created in 1920 by Oswald Cooper was able to revolutionize the typo
 
 Over time, Cooper Black has become one of the most versatile yet bold typefaces ever created, gaining popularity especially after the invention of large-scale printers during the 1960s. When more room was given for graphic designers to make use of unique, new fonts, Cooper Black seemed to be the font most of them would always go back for. As a result, the typeface has been utilized on the covers of music albums for almost a century now, and surprisingly, they all vary in genre.
 
+#### The Beach Boys - *Pet Sounds (1966)*
+
 ![The Beach Boys - Pet Sounds (1966)](../uploads/petsoundscover.jpg "The Beach Boys - Pet Sounds (1966)")
 
 The Beach Boys’ pop album is a great example of how easy it is to puzzle up words when using this font. The S in Sounds fits perfectly between the B and O in Boys, while the E in Pet complements the D in Sounds – and all because of rounded edges that allow for unevenness. Generally, this font fits the trend of 70’s groovy, curvy typefaces, making an effective branding of the album during that time.
+
+#### Frank Ocean - *channel ORANGE (2012)*
 
 ![Frank Ocean - channel ORANGE (2012)](../uploads/download.png "Frank Ocean - channel ORANGE (2012)")
 
 Frank Ocean’s debut studio album, channel ORANGE, showcases just how easy it is to pair Cooper Black with other typefaces. Dale Eisinger wrote for Complex in 2013 that “Employing the classic Cooper Black font—a staple of his Odd Future crew and hip-hop history, alike—next to a more modern, Sans-Serif font shows just how smart this dude is”.
 
+#### Tyler, the Creator - *Goblin (2011)*
+
 ![Tyler, the Creator - Goblin (2011)](../uploads/goblindeluxeedition.jpg "Tyler, the Creator - Goblin (2011)")
 
 Moving away from pop, but keeping on the same track of debuting albums, one might discover Tyler, the Creator’s Goblin. The pink-coloured font, paired with a thick black borderline is reminiscent of graffiti –which is often associated with hip-hop music-, making a great fit for this indie, temperamental album.
+
+#### Clara Ward - *Hang Your Tears Out To Dry (1966)*
 
 ![Clara Ward - Hang Your Tears Out To Dry (1966)](../uploads/download.jfif "Clara Ward - Hang Your Tears Out To Dry (1966)")
 
