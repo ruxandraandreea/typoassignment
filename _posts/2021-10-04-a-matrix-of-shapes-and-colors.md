@@ -4,7 +4,7 @@ title: A Matrix of shapes and colors
 date: 2021-10-04T22:48:45.873Z
 image: ../uploads/aidan-granberry-ak4hw4r6xio-unsplash.jpg
 title_color: "#ffffff"
-comments: false
+comments: true
 tags:
   - Music
 ---
