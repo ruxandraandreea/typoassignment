@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: "About this site "
-image: ../uploads/untitled-1.png
+image: ../uploads/oleg-ivanov-7x4ngefelye-unsplash.jpg
 subtitle: Why and how I did it
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
