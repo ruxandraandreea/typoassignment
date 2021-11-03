@@ -14,4 +14,4 @@ upzoom: true
 items:
   - name: About Me
     siteurl: /aboutme/
-    tab: true
+    tab: false
