@@ -2,7 +2,7 @@
 layout: post
 title: “We accept type-only artwork, I’m afraid” - Type, a key element of design
 date: 2021-11-20T21:19:07.473Z
-image: ""
+image: ../uploads/two.jpg
 title_color: "#ffffff"
 comments: false
 ---
